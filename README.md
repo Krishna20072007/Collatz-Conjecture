@@ -1,6 +1,6 @@
 This is a repository of my work on the famous Collatz Conjecture.
 
-Collatz Conjecture - 
+### Collatz Conjecture - 
 The Collatz Conjecture, also known as the 3n+1 Conjecture, is an unsolved mathematical problem that has intrigued mathematicians for many years. Proposed by German mathematician Lothar Collatz in 1937, it is a simple iterative process that involves repeatedly applying a particular algorithm to a positive integer.
 
 The conjecture states that for any positive integer n, the sequence obtained by repeatedly applying the following rules will eventually reach the value 1:
@@ -13,7 +13,7 @@ Mathematicians have extensively tested the conjecture using computers, and it ho
 
 The Collatz Conjecture is a fascinating problem in the field of number theory and has attracted significant attention from mathematicians worldwide. Its simplicity, coupled with its unsolved nature, makes it an intriguing puzzle that continues to captivate mathematicians and researchers to this day.
 
-You can view The pdfs for the number sets here:
+### You can view The pdfs for the number sets here:
 
 * [5 Numbers](/Pdf/collatz-5.pdf)
 
@@ -25,7 +25,7 @@ You can view The pdfs for the number sets here:
 
 * [40 Numbers](/Pdf/collatz-40.pdf)
 
-You can also view the images for the number sets here:
+### You can also view the images for the number sets here:
 
 * [5 Numbers](/Pdf/collatz-5.png)
 
