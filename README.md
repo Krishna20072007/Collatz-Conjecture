@@ -14,6 +14,7 @@ Mathematicians have extensively tested the conjecture using computers, and it ho
 The Collatz Conjecture is a fascinating problem in the field of number theory and has attracted significant attention from mathematicians worldwide. Its simplicity, coupled with its unsolved nature, makes it an intriguing puzzle that continues to captivate mathematicians and researchers to this day.
 
 You can view The pdfs for the number sets here:
+
 [10 Numbers](/Pdf/collatz-10.pdf)
 
 [20 Numbers](/Pdf/collatz-20.pdf)
