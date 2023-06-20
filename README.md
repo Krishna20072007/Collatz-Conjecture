@@ -12,27 +12,27 @@ The Collatz Conjecture is a fascinating problem in the field of number theory an
 
 ### You can view The pdfs for the number sets here:
 
-* [5 Numbers](/Pdf/collatz-5.pdf)
+* [5 Numbers](Pdf/collatz-5.pdf)
 
-* [10 Numbers](/Pdf/collatz-10.pdf)
+* [10 Numbers](Pdf/collatz-10.pdf)
 
-* [20 Numbers](/Pdf/collatz-20.pdf)
+* [20 Numbers](Pdf/collatz-20.pdf)
 
-* [30 Numbers](/Pdf/collatz-30.pdf)
+* [30 Numbers](Pdf/collatz-30.pdf)
 
-* [40 Numbers](/Pdf/collatz-40.pdf)
+* [40 Numbers](Pdf/collatz-40.pdf)
 
 ### You can also view the images for the number sets here:
 
-* [5 Numbers](/Pdf/collatz-5.png)
+* [5 Numbers](Png/collatz-5.jpeg)
 
-* [10 Numbers](/Pdf/collatz-10.png)
+* [10 Numbers](Png/collatz-10.jpeg)
 
-* [20 Numbers](/Pdf/collatz-20.png)
+* [20 Numbers](Png/collatz-20.jpeg)
 
-* [30 Numbers](/Pdf/collatz-30.png)
+* [30 Numbers](Png/collatz-30.jpeg)
 
-* [40 Numbers](/Pdf/collatz-40.png)
+* [40 Numbers](Png/collatz-40.jpeg)
 
 [Link to repo](https://github.com/Krishna20072007/Collatz-Conjecture)
 
