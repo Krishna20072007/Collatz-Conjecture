@@ -15,6 +15,14 @@ The Collatz Conjecture is a fascinating problem in the field of number theory an
 
 You can view The pdfs for the number sets here:
 [10 Numbers](/Pdf/collatz-10.pdf)
+
 [20 Numbers](/Pdf/collatz-20.pdf)
+
 [30 Numbers](/Pdf/collatz-30.pdf)
+
 [40 Numbers](/Pdf/collatz-40.pdf)
+
+
+
+
+[Link to repo:](https://github.com/Krishna20072007/Collatz-Conjecture)
