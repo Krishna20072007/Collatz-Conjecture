@@ -32,8 +32,6 @@ The Collatz Conjecture is a fascinating problem in the field of number theory an
 
 * [30 Numbers](/Pdf/collatz-30.png)
 
-* [40 Numbers](/Pdf/collatz-40.png)
-
 [Link to repo](https://github.com/Krishna20072007/Collatz-Conjecture)
 
 [Link to Site](https://krishna20072007.github.io/Collatz-Conjecture/)
