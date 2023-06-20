@@ -1,6 +1,6 @@
 level = [1]
 results = {}
-end = 50
+end = int(input("Enter the number: "))
 
 for c in range(end):
     newlevel = set()
