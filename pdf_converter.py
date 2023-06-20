@@ -1,17 +1,12 @@
 import os
-from pdf2image import convert_from_path
-from PyPDF2 import PdfReader
+import subprocess
 
 def convert_pdf_to_jpeg(pdf_path, output_folder):
-    with open(pdf_path, "rb") as pdf_file:
-        pdf_reader = PdfReader(pdf_file)
-        total_pages = len(pdf_reader.pages)
-
-    images = convert_from_path(pdf_path, dpi=300)
-
-    for i, image in enumerate(images):
-        image_path = os.path.join(output_folder, f"collatz-40.jpg")
-        image.save(image_path, "JPEG")
+    os.makedirs(output_folder, exist_ok=True)
+    
+    # Use pdftoppm to convert PDF to PPM image format
+    output_prefix = os.path.join(output_folder, "image")
+    subprocess.run(["pdftoppm", "-jpeg", pdf_path, output_prefix])
 
     print("Conversion complete!")
 
