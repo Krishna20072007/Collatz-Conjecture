@@ -24,13 +24,13 @@ The Collatz Conjecture is a fascinating problem in the field of number theory an
 
 ### You can also view the images for the number sets here:
 
-* [5 Numbers](Png/collatz-5.jpg)
+* [5 Numbers](Png/collatz-5.jpeg)
 
-* [10 Numbers](Png/collatz-10.png)
+* [10 Numbers](Png/collatz-10.jpeg)
 
-* [20 Numbers](Png/collatz-20.png)
+* [20 Numbers](Png/collatz-20.jpeg)
 
-* [30 Numbers](Png/collatz-30.png)
+* [30 Numbers](Png/collatz-30.jpeg)
 
 [Link to repo](https://github.com/Krishna20072007/Collatz-Conjecture)
 
