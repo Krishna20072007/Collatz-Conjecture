@@ -24,7 +24,7 @@ The Collatz Conjecture is a fascinating problem in the field of number theory an
 
 ### You can also view the images for the number sets here:
 
-* [5 Numbers](Png/collatz-5.png)
+* [5 Numbers](Png/collatz-5.jpg)
 
 * [10 Numbers](Png/collatz-10.png)
 
