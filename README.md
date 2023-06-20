@@ -26,4 +26,4 @@ You can view The pdfs for the number sets here:
 
 
 
-[Link to repo:](https://github.com/Krishna20072007/Collatz-Conjecture)
+[Link to repo](https://github.com/Krishna20072007/Collatz-Conjecture)
