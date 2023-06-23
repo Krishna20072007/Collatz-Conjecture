@@ -20,7 +20,6 @@ jobs:
     - name: Install Poppler
       run: sudo apt-get install poppler-utils
 
-
     - name: Run Python script
       run: |
         python pdf_converter.py
@@ -29,6 +28,6 @@ jobs:
       run: |
         git config --local user.email "krishnakashab@gmail.com"
         git config --local user.name "GitHub Action"
-        git add Excels/
+        git add Png/
         git commit -m "Auto-generated output files"
         git push
