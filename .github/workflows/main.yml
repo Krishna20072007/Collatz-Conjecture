@@ -3,7 +3,7 @@ name: Run Collatz Calculation
 on:
   push:
     branches:
-      - master
+		- master
 
 jobs:
   run-code:
@@ -11,21 +11,24 @@ jobs:
 
     steps:
     - name: Checkout code
-      uses: actions/checkout@v2
+		uses: actions/checkout@v2
 
     - name: Set up Python
-      uses: actions/setup-python@v2
-      with:
-        python-version: 3.x
+		uses: actions/setup-python@v2
+		with:
+		  python-version: 3.x
+    - name: Install Poppler
+		run: sudo apt-get install poppler-utils
 
+		
     - name: Run Python script
-      run: |
-        python pdf_converter.py
+		run: |
+		  python pdf_converter.py
 
     - name: Commit and push changes
-      run: |
-        git config --local user.email "krishnakashab@gmail.com"
-        git config --local user.name "GitHub Action"
-        git add Excels/
-        git commit -m "Auto-generated output files"
-        git push
+		run: |
+		  git config --local user.email "krishnakashab@gmail.com"
+		  git config --local user.name "GitHub Action"
+		  git add Excels/
+		  git commit -m "Auto-generated output files"
+		  git push
