@@ -20,7 +20,7 @@ jobs:
 
     - name: Run Python script
       run: |
-        python pdf_converter.py.py
+        python pdf_converter.py
 
     - name: Commit and push changes
       run: |
